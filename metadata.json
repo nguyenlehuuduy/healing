@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Cozy Room",
+  "description": "Một góc phòng ảo yên bình, ấm áp và mang đậm vibe Gen Z. Vuốt 360 độ để khám phá, bật đĩa than lo-fi, kéo rèm đón mưa rơi, trò chuyện cùng mèo cưng và trốn thế giới ồn ào.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
